@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28531.58
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppBlutoothArduino", "AppBlutoothArduino\AppBlutoothArduino.csproj", "{4942129A-CAEE-43B0-A3AC-0EBF0BC29311}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4942129A-CAEE-43B0-A3AC-0EBF0BC29311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4942129A-CAEE-43B0-A3AC-0EBF0BC29311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4942129A-CAEE-43B0-A3AC-0EBF0BC29311}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4942129A-CAEE-43B0-A3AC-0EBF0BC29311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4942129A-CAEE-43B0-A3AC-0EBF0BC29311}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4942129A-CAEE-43B0-A3AC-0EBF0BC29311}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1612A598-23B9-4B83-9893-7ADDD2B3F72F}
+	EndGlobalSection
+EndGlobal
